@@ -1,3 +1,18 @@
+// sert setup method 
+// npm init -y
+// npm i express cors
+// click package.json > then > .gitignore >files crea >add >node_modules
+
+
+// click package.json>then    >   .env    >files creat 
+
+// npm i modemon mongodb 
+// create  files>index.js 
+// npm i dotenv 
+
+
+
+
 const express = require("express")
 const app =  express()
 const cors = require('cors')
