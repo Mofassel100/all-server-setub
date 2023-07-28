@@ -6,7 +6,7 @@
 
 // click package.json>then    >   .env    >files creat 
 
-// npm i modemon mongodb 
+// npm i nodemon mongodb 
 // create  files>index.js 
 // npm i dotenv 
 
